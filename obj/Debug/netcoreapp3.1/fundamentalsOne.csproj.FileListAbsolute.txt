@@ -1,0 +1,12 @@
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/bin/Debug/netcoreapp3.1/fundamentalsOne.deps.json
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/bin/Debug/netcoreapp3.1/fundamentalsOne.runtimeconfig.json
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/bin/Debug/netcoreapp3.1/fundamentalsOne.runtimeconfig.dev.json
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/bin/Debug/netcoreapp3.1/fundamentalsOne.dll
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/bin/Debug/netcoreapp3.1/fundamentalsOne.pdb
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/obj/Debug/netcoreapp3.1/fundamentalsOne.csprojAssemblyReference.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/obj/Debug/netcoreapp3.1/fundamentalsOne.AssemblyInfoInputs.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/obj/Debug/netcoreapp3.1/fundamentalsOne.AssemblyInfo.cs
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/obj/Debug/netcoreapp3.1/fundamentalsOne.csproj.CoreCompileInputs.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/obj/Debug/netcoreapp3.1/fundamentalsOne.dll
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/obj/Debug/netcoreapp3.1/fundamentalsOne.pdb
+/Users/douglasherman/Desktop/CodingDojo/C#/fundamentalsOne/obj/Debug/netcoreapp3.1/fundamentalsOne.genruntimeconfig.cache
